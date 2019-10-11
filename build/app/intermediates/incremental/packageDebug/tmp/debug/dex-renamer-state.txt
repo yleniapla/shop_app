@@ -1,0 +1,4 @@
+#Mon Oct 07 16:31:36 CEST 2019
+base.0=C\:\\Users\\Ylenia\\Desktop\\Development\\Flutter_projects\\shop_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
